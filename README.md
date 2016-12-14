@@ -5,6 +5,6 @@
 ### projects:
 
 * E-magazine
-..* It uses js to make a magazine type web page.
+  * It uses js to make a magazine type web page.
 * MechSolutions
-..* This is a web page for a computer center/workshop made with java & struts2
+  * This is a web page for a computer center/workshop made with java & struts2
